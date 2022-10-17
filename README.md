@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">Software Developer from Izmir</h3>
+<h3>Software Developer from Izmir</h3>
 
-- 🔭 I’m currently working on [Airbnb Clone](https://github.com/barisatakanelbasan/airbnb_clone)
+- 🧑🏽‍💻 I’m currently working on [Airbnb Clone](https://github.com/barisatakanelbasan/airbnb_clone)
 
-- 🌱 I’m currently learning **Flutter & Dart, Swift and SwiftUI**
+- 🍼 I’m currently learning **Flutter & Dart, Swift and SwiftUI**
 
 - 📫 How to reach me **barisatakanelbasan@gmail.com**
 
