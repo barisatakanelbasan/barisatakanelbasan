@@ -1,9 +1,12 @@
 <h1 align="center">Hi ✌🏼, I'm Baris</h1>
 <h3>Software Developer from Izmir</h3>
 
-- 🧑🏽‍💻 I'm currently working on a small indie app to help my gf's water drinking problem
 
-- 🍼 I’m currently learning **Flutter & Dart, Swift and SwiftUI**
+- 🔍 Focused on foundations not the tools
+
+- 🧑🏽‍💻 Been used **Flutter & Dart** in two big SaaS projects. In my current position I had the chance to work with **UIKit Swift** as well
+
+- 🐣 I'm currently working on a small indie app using **SwiftUI** to help my gf's water drinking problem
 
 - 📫 How to reach me **barisatakanelbasan@gmail.com**
 
