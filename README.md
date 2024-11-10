@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌🏼, I'm Baris</h1>
 <h3>Software Developer from Izmir</h3>
 
-- 🧑🏽‍💻 I’m currently working on [Airbnb Clone](https://github.com/barisatakanelbasan/airbnb_clone)
+- 🧑🏽‍💻 I'm currently working on a small indie app to help my gf's water drinking problem
 
 - 🍼 I’m currently learning **Flutter & Dart, Swift and SwiftUI**
 
